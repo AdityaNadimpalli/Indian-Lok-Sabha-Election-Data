@@ -26,17 +26,20 @@ Please refer the "Extraction Explanation" Document for clear explanation of the 
 
 ### Prerequisites
 
-1.	JRuby (http://jruby.org/)
+JRuby (http://jruby.org/)
 
 JRuby is a Java implementation of Ruby. At the time of working on this project in May 2015, I used a JRuby API for Tabula. I used JRuby version 1.7.20 along with Java 8, although later versions are now available. A direct Windows installer for JRuby can be downloaded at http://jruby.org/download. Java should be set up prior to installing and working with JRuby.
 
 Examples of JRuby code for tabula can be seen at https://docs.omniref.com/github/tabulapdf/tabula-extractor/0.7.6
-  
-2.	Tabula
-	Tabula (http://tabula.technology/) is a tool to extract tables from PDF documents into a CSV file 	format. Tabula can be used through a GUI tool or accessed through JRuby and Java APIs.
-	For this project, I have used Tabula for Windows, version 0.9.7. Different versions of Tabula can 	be downloaded at https://github.com/tabulapdf/tabula/releases. 
 
-3.	Python 2.7
+  
+Tabula
+
+Tabula (http://tabula.technology/) is a tool to extract tables from PDF documents into a CSV file format. Tabula can be used through a GUI tool or accessed through JRuby and Java APIs. For this project, I have used Tabula for Windows, version 0.9.7. Different versions of Tabula can be downloaded at https://github.com/tabulapdf/tabula/releases. 
+
+
+Python 2.7
+
 
 ## Acknowledgments
 
